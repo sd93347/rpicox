@@ -1,0 +1,4 @@
+[submodule "FreeRTOS-LTS"]
+	path = FreeRTOS/FreeRTOS-LTS
+	url = https://github.com/FreeRTOS/FreeRTOS-LTS.git
+	branch = 202406-LTS
