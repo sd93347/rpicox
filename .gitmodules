@@ -1,3 +1,6 @@
 [submodule "FreeRTOS-LTS"]
 	path = modules/FreeRTOS/FreeRTOS-LTS
 	url = https://github.com/FreeRTOS/FreeRTOS-LTS.git
+[submodule "pico-sdk"]
+	path = modules/pico-sdk
+	url = https://github.com/raspberrypi/pico-sdk.git
