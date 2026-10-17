@@ -4,3 +4,6 @@
 [submodule "pico-sdk"]
 	path = modules/pico-sdk
 	url = https://github.com/raspberrypi/pico-sdk.git
+[submodule "tinyusb"]
+	path = modules/tinyusb
+	url = https://github.com/hathach/tinyusb.git
